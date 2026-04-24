@@ -4,8 +4,8 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Diogo Vieira Teodoro Ferreira
+- Matrícula: 1645894
 
 ## Print do console do navegador
 
