@@ -37,11 +37,11 @@ let sobra = renda - totalDespesas;
 let classificacao;
 
 if (sobra > 0) {
-    classificacao = "Situação positiva 👍";
+    classificacao = "Ótimo: boa margem de sobra. ✅";
 } else if (sobra === 0) {
-    classificacao = "Situação equilibrada ⚖️";
+    classificacao = "Ok: dá para melhorar a sobra. 🙂";
 } else {
-    classificacao = "Situação negativa ⚠️";
+    classificacao = " Atenção: você gastou mais do que ganhou. ⚠️";
 }
 
 
