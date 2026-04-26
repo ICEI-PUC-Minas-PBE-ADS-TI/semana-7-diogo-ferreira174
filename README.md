@@ -9,7 +9,4 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo responsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+<img width="1918" height="577" alt="image" src="https://github.com/user-attachments/assets/5803cd19-f6e8-4eb9-9e20-8b30aa12b7d5" />
