@@ -9,7 +9,7 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Print do console do navegador
 
-<img width="1918" height="577" alt="image" src="https://github.com/user-attachments/assets/5803cd19-f6e8-4eb9-9e20-8b30aa12b7d5" />
+<img width="555" height="226" alt="image" src="https://github.com/user-attachments/assets/17d5ac14-0ead-4657-aac1-24d0ce90ea4f" />
 
 <img width="555" height="281" alt="image" src="https://github.com/user-attachments/assets/71674430-e827-40a3-b1bc-d652b2f467ed" />
 
